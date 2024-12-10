@@ -1,4 +1,5 @@
-#!origin by chxm1023
+#!name=notability解锁
+#!desc=notability解锁
 
 [Script]
 notability = type=http-response, pattern=^https?:\/\/notability\.com\/(global|subscriptions), script-path=https://raw.githubusercontent.com/Kailcy/ClashRule/refs/heads/Kailcy-patch-1/notability.js, requires-body=true, max-size=-1, timeout=60
