@@ -1,6 +1,6 @@
 /*************************************
 
-项目名称：Notability
+项目名称：Notability解锁
 下载地址：https://t.cn/A6Cgjtei
 脚本作者：chxm1023
 电报频道：https://t.me/chxm1023
