@@ -40,19 +40,7 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="rtsps://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
 rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="rtsps://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV4K
-rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="央视频道",CGTN西班牙语
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000561
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000562
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="央视频道",CGTN阿拉伯语
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000563
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000564
-#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN英文纪录.png" group-title="央视频道",CGTN英文纪录
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000560
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN英语.png" group-title="央视频道",CGTN英语
-rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000127
+rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
 
 
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="rtsps://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
@@ -127,6 +115,43 @@ rtsp://111.48.34.138:1554/170000004112/HBGD8213740706910740489902289856
 rtsp://111.48.34.138:1554/170000004112/HBGD8790062031491768322269017598
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="rtsps://live.fanmingming.cn/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
 rtsp://111.48.34.138:1554/170000004112/HBGD8790066950704414726368066759
+
+
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="rtsps://live.fanmingming.cn/tv/风云足球.png" group-title="央视其他频道",风云足球
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000310
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="rtsps://live.fanmingming.cn/tv/高尔夫网球.png" group-title="央视其他频道",高尔夫网球
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000312
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="rtsps://live.fanmingming.cn/tv/央视台球.png" group-title="央视其他频道",央视台球
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000348
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="rtsps://live.fanmingming.cn/tv/兵器科技.png" group-title="央视其他频道",兵器科技
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="rtsps://live.fanmingming.cn/tv/世界地理.png" group-title="央视其他频道",世界地理
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
+#EXTINF:-1 tvg-name="老故事" tvg-logo="rtsps://live.fanmingming.cn/tv/老故事.png" group-title="央视其他频道",老故事
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000314
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="rtsps://live.fanmingming.cn/tv/第一剧场.png" group-title="央视其他频道",第一剧场
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="rtsps://live.fanmingming.cn/tv/风云音乐.png" group-title="央视其他频道",风云音乐
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000319
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="rtsps://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视其他频道",怀旧剧场
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000318
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="rtsps://live.fanmingming.cn/tv/电视指南.png" group-title="央视其他频道",电视指南
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000316
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="rtsps://live.fanmingming.cn/tv/女性时尚.png" group-title="央视其他频道",女性时尚
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000315
+
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="央视其他频道",CGTN西班牙语
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000561
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视其他频道",CGTN法语
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000562
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="央视其他频道",CGTN阿拉伯语
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000563
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视其他频道",CGTN俄语
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000564
+#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN英文纪录.png" group-title="央视其他频道",CGTN英文纪录
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000560
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="rtsps://live.fanmingming.cn/tv/CGTN英语.png" group-title="央视其他频道",CGTN英语
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000127
 
 
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="rtsps://live.fanmingming.cn/tv/湖北经视.png" group-title="其他频道",湖北经视
@@ -209,30 +234,8 @@ rtsp://111.48.34.138:1554/170000004112/HBGD9805147123567411206852572153
 rtsp://111.48.34.138:1554/170000004112/HBGD9805148106502553603872020055
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="rtsps://live.fanmingming.cn/tv/东方财经.png" group-title="其他频道",东方财经
 rtsp://111.48.34.138:1554/170000004112/HBGD9805155468386877444139298202
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="rtsps://live.fanmingming.cn/tv/风云足球.png" group-title="其他频道",风云足球
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000310
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="rtsps://live.fanmingming.cn/tv/高尔夫网球.png" group-title="其他频道",高尔夫网球
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000312
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="rtsps://live.fanmingming.cn/tv/央视台球.png" group-title="其他频道",央视台球
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000348
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="rtsps://live.fanmingming.cn/tv/兵器科技.png" group-title="其他频道",兵器科技
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="rtsps://live.fanmingming.cn/tv/世界地理.png" group-title="其他频道",世界地理
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
-#EXTINF:-1 tvg-name="老故事" tvg-logo="rtsps://live.fanmingming.cn/tv/老故事.png" group-title="其他频道",老故事
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000314
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="rtsps://live.fanmingming.cn/tv/第一剧场.png" group-title="其他频道",第一剧场
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="rtsps://live.fanmingming.cn/tv/风云音乐.png" group-title="其他频道",风云音乐
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000319
 #EXTINF:-1 tvg-name="汽摩" tvg-logo="rtsps://live.fanmingming.cn/tv/汽摩.png" group-title="其他频道",汽摩
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000313
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="rtsps://live.fanmingming.cn/tv/怀旧剧场.png" group-title="其他频道",怀旧剧场
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000318
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="rtsps://live.fanmingming.cn/tv/电视指南.png" group-title="其他频道",电视指南
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000316
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="rtsps://live.fanmingming.cn/tv/女性时尚.png" group-title="其他频道",女性时尚
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000315
 #EXTINF:-1 tvg-name="梨园" tvg-logo="rtsps://live.fanmingming.cn/tv/梨园.png" group-title="其他频道",梨园
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000301
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="rtsps://live.fanmingming.cn/tv/文物宝库.png" group-title="其他频道",文物宝库
@@ -245,9 +248,10 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000282
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000284
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="rtsps://live.fanmingming.cn/tv/财富天下.png" group-title="其他频道",财富天下
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000163
-#EXTINF:-1 tvg-name="芒果1" tvg-logo="rtsps://live.fanmingming.cn/tv/芒果1.png" group-title="其他频道",芒果1
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="rtsps://live.fanmingming.cn/tv/CCTV4K.png" group-title="其他频道",CCTV4K
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432
-#EXTINF:-1 tvg-name="芒果2" tvg-logo="rtsps://live.fanmingming.cn/tv/芒果2.png" group-title="其他频道",芒果2
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="rtsps://live.fanmingming.cn/tv/CCTV5.png" group-title="其他频道",CCTV5
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
 #EXTINF:-1 tvg-name="CCTV1-1M" tvg-logo="rtsps://live.fanmingming.cn/tv/CCTV1.png" group-title="其他频道",CCTV1-1M
 rtsp://111.48.34.138:1554/170000004112/HBGD9079672088018370568847387517
@@ -262,4 +266,4 @@ rtsp://111.48.34.138:1554/170000004112/HBGD9935047382391889921080573272
 #EXTINF:-1 tvg-name="CCTV13-1.8M" tvg-logo="rtsps://live.fanmingming.cn/tv/CCTV13.png" group-title="其他频道",CCTV13-1.8M
 rtsp://111.48.34.138:1554/170000004112/HBGD9935052243935395846536036499
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="rtsps://live.fanmingming.cn/tv/CCTV4K.png" group-title="其他频道",CCTV4K
-rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
+rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370
