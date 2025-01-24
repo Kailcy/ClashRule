@@ -7,9 +7,9 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000409
-#EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4中文国际欧洲.png" group-title="央视频道",CCTV4中文国际欧洲
+#EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4中文国际欧洲
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558
-#EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4中文国际美洲.png" group-title="央视频道",CCTV4中文国际美洲
+#EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4中文国际美洲
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000559
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000322
@@ -140,17 +140,17 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000316
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.cn/tv/女性时尚.png" group-title="央视其他",女性时尚
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000315
 
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西班牙语.png" group-title="央视其他",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视其他",CGTN西班牙语
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000561
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视其他",CGTN法语
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000562
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿拉伯语.png" group-title="央视其他",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视其他",CGTN阿拉伯语
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000563
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视其他",CGTN俄语
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000564
-#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN英文纪录.png" group-title="央视其他",CGTN英文纪录
+#EXTINF:-1 tvg-name="CGTN英文纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTNDoc.png" group-title="央视其他",CGTN英文纪录
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000560
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN英语.png" group-title="央视其他",CGTN英语
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视其他",CGTN英语
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000127
 
 
