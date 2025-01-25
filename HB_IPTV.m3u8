@@ -33,12 +33,16 @@ http://111.48.34.237/PLTV/88888888/224/3221230495/1.m3u8
 rtsp://111.48.34.237:1554/170000004112/99180001000000050000000000000612
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://111.48.34.237/PLTV/88888888/224/3221230447/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4EU" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4EU
+http://111.48.34.237/PLTV/88888888/224/3221230530/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4AM" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4AM
+http://111.48.34.237/PLTV/88888888/224/3221230585/1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
 http://111.48.34.237/PLTV/88888888/224/3221230455/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 http://111.48.34.237/PLTV/88888888/224/3221230518/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-rtsp://111.48.34.237:1554/170000004112/99180001000000050000000000000432
+http://111.48.34.237/PLTV/88888888/224/3221230571/1.m3u8
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://111.48.34.237/PLTV/88888888/224/3221229983/1.m3u8
