@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
-rtp://122.191.50.135:7088/udp/239.253.157.96:8550
+rtsp://122.191.50.135/PLTV/88888888/224/3221225513/10000100000000060000000000007639_0.smil
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2财经
 rtp://122.191.50.135:7088/udp/239.69.1.102:10250
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3综艺
