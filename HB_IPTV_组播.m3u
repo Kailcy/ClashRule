@@ -266,7 +266,5 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
 rtsp://111.48.34.138:1554/170000004112/HBGD9935052243935395846536036499
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="备用频道",CCTV4K
 rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="备用频道",CCTV4K
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432
-#EXTINF:-1 tvg-name="CCTV4K-20M" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="备用频道",CCTV4K-20M
+#EXTINF:-1 tvg-name="CCTV4K-H265" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="备用频道",CCTV4K-H265
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432
