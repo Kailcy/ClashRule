@@ -7,14 +7,8 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000409
-#EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4中文国际欧洲
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558
-#EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4中文国际美洲
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000559
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000322
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5＋
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000392
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
@@ -39,6 +33,12 @@ rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000587
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
 rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
+#EXTINF:-1 tvg-name="CCTV4EU" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4EU
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558
+#EXTINF:-1 tvg-name="CCTV4AM" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="央视频道",CCTV4AM
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000559
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视频道",CCTV4K
 rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415
 
@@ -170,17 +170,17 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517
 #EXTINF:-1 tvg-name="湖北中国交通" tvg-logo="https://live.fanmingming.cn/tv/中国交通.png" group-title="卫视其他",湖北中国交通
 rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416
-#EXTINF:-1 tvg-name="武汉新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png" group-title="卫视其他",武汉新闻
+#EXTINF:-1 tvg-name="武汉新闻" tvg-logo="https://raw.github.site/wanglindl/TVlogo/main/img/Wuhan1.png" group-title="卫视其他",武汉新闻
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429
-#EXTINF:-1 tvg-name="武汉电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV2.png" group-title="卫视其他",武汉电视剧
+#EXTINF:-1 tvg-name="武汉电视剧" tvg-logo="https://raw.github.site/wanglindl/TVlogo/main/img/Wuhan2.png" group-title="卫视其他",武汉电视剧
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000430
-#EXTINF:-1 tvg-name="武汉生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV3.png" group-title="卫视其他",武汉生活
+#EXTINF:-1 tvg-name="武汉科技生活" tvg-logo="https://raw.github.site/wanglindl/TVlogo/main/img/Wuhan3.png" group-title="卫视其他",武汉生活
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632
-#EXTINF:-1 tvg-name="武汉文体" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV5.png" group-title="卫视其他",武汉文体
+#EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://raw.github.site/wanglindl/TVlogo/main/img/Wuhan5.png" group-title="卫视其他",武汉文体
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000431
-#EXTINF:-1 tvg-name="武汉外语" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV6.png" group-title="卫视其他",武汉外语
+#EXTINF:-1 tvg-name="武汉外语" tvg-logo="https://raw.github.site/wanglindl/TVlogo/main/img/Wuhan6.png" group-title="卫视其他",武汉外语
 rtsp://111.48.34.138:1554/170000004112/HBGD7388122639412469760674279984
-#EXTINF:-1 tvg-name="武汉教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WETV.png" group-title="卫视其他",武汉教育
+#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://raw.github.site/wanglindl/TVlogo/main/img/Wuhan8.png" group-title="卫视其他",武汉教育
 rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000369
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="卫视其他",卡酷少儿
 rtsp://111.48.34.138:1554/170000004112/HBGD7833080911839600643336215800
