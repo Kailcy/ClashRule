@@ -5,7 +5,7 @@
 #!author=chxm1023
 
 [Script]
-http-response ^https?:\/\/notability\.com\/(global|subscriptions) script-path=https://raw.githubusercontent.com/Kailcy/ClashRule/refs/heads/Kailcy-patch-1/notability.js, requires-body=true, timeout=60, tag=notability
+http-response ^https?:\/\/notability\.com\/(global|subscriptions) script-path=https://raw.githubusercontent.com/Kailcy/ClashRule/refs/heads/Kailcy-patch-1/Notability1.js, requires-body=true, timeout=60, tag=notability
 
 [MITM]
 hostname = notability.com
