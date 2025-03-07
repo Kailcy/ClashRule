@@ -1,0 +1,9 @@
+﻿#!name=Notability Plus
+#!desc=Notability Plus Lifetime
+#!icon=https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4b/84/62/4b846289-5508-c748-be8c-abae808cf62c/AppIcon-2x_U007euniversal-4-0-85-220.png/492x0w.png
+#!homepage=https://whatshub.top
+#!author=chxm1023
+[MITM]
+hostname=notability.com
+[Script]
+http-response ^https://notability.com/subscriptions requires-body=1,script-path=https://raw.githubusercontent.com/Kailcy/ClashRule/refs/heads/Kailcy-patch-1/notability.js
