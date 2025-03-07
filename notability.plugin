@@ -2,7 +2,7 @@
 #!desc=Notability终身订阅
 #!icon=https://raw.githubusercontent.com/Kailcy/ClashRule/refs/heads/Kailcy-patch-1/notability.png
 #!homepage=https://whatshub.top
-#!author=chxm1023
+#!author=Jsforbaby
 
 [Script]
 http-response ^https?:\/\/notability\.com\/(global|subscriptions) script-path=https://raw.githubusercontent.com/Kailcy/ClashRule/refs/heads/Kailcy-patch-1/Notability1.js, requires-body=true, timeout=60, tag=notability
